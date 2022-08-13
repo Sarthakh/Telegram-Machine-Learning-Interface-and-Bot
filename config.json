@@ -1,0 +1,1 @@
+{"type_of_problem": "regression", "no_of_nodes": "64", "no_of_layers": "4", "activations": "tanh", "metrics": "precision"}
